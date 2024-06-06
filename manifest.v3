@@ -15,4 +15,5 @@
   <null name="description"/>
   <value name="created_date">24-08-2022 16:54:14 IST</value>
   <null name="extendedProperties"/>
+  <value name="target_server_version">11.0.0.0</value>
 </Values>
